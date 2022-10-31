@@ -1,0 +1,5 @@
+[NOMBRE]: Capricornio
+[RUT]: 10.101.010-1
+[FECHA DE NACIMIENTO]: [23/12/1999]
+[EDAD]: 22
+ 

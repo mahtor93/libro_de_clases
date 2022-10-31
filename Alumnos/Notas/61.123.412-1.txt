@@ -1,0 +1,5 @@
+[Nota 1]:43
+[Nota 2]:62
+[Nota 3]:19
+[PROMEDIO]: 41,33
+ 

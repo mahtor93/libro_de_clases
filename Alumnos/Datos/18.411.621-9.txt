@@ -1,0 +1,5 @@
+[NOMBRE]: test
+[RUT]: 18.411.621-9
+[FECHA DE NACIMIENTO]: [1/1/1111]
+[EDAD]: 910
+ 

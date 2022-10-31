@@ -1,0 +1,5 @@
+[NOMBRE]: Omicron
+[RUT]: 61.652.714-4
+[FECHA DE NACIMIENTO]: [13/8/2017]
+[EDAD]: 4
+ 

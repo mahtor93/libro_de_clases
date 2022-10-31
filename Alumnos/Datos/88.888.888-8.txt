@@ -1,0 +1,5 @@
+[NOMBRE]: Escorpio
+[RUT]: 88.888.888-8
+[FECHA DE NACIMIENTO]: [23/10/1997]
+[EDAD]: 24
+ 

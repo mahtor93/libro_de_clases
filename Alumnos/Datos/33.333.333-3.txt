@@ -1,0 +1,5 @@
+[NOMBRE]: Géminis
+[RUT]: 33.333.333-3
+[FECHA DE NACIMIENTO]: [23/5/1992]
+[EDAD]: 29
+ 

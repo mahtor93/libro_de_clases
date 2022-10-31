@@ -1,0 +1,5 @@
+[NOMBRE]: Cancer
+[RUT]: 44.444.444-4
+[FECHA DE NACIMIENTO]: [23/6/1993]
+[EDAD]: 28
+ 

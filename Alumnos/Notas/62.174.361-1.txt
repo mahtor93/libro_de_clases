@@ -1,0 +1,5 @@
+[Nota 1]:6,1
+[Nota 2]:6,2
+[Nota 3]:6,7
+[PROMEDIO]: 6,33
+ 

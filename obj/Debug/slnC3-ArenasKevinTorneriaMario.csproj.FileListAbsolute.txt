@@ -1,0 +1,11 @@
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\bin\Debug\TestTdeP.exe.config
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\bin\Debug\TestTdeP.exe
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\bin\Debug\TestTdeP.pdb
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\obj\Debug\slnC3-ArenasKevinTorneriaMario.csproj.AssemblyReference.cache
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\obj\Debug\slnC3-ArenasKevinTorneriaMario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\obj\Debug\TestTdeP.frmLibrodeClases.resources
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\obj\Debug\TestTdeP.Properties.Resources.resources
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\obj\Debug\slnC3-ArenasKevinTorneriaMario.csproj.GenerateResource.cache
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\obj\Debug\slnC3-ArenasKevinTorneriaMario.csproj.CoreCompileInputs.cache
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\obj\Debug\TestTdeP.exe
+C:\Users\Metatron\Downloads\slnC3-ArenasKevin_TorneriaMario (1)\slnC3-ArenasKevin_TorneriaMario\obj\Debug\TestTdeP.pdb

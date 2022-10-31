@@ -1,0 +1,5 @@
+[NOMBRE]: Piscis
+[RUT]: 00.000.000-0
+[FECHA DE NACIMIENTO]: [23/2/2001]
+[EDAD]: 20
+ 

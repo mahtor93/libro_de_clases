@@ -1,0 +1,5 @@
+[NOMBRE]: Acuario
+[RUT]: 12.345.678-9
+[FECHA DE NACIMIENTO]: [23/1/2000]
+[EDAD]: 21
+ 

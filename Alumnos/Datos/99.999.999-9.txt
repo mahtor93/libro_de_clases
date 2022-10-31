@@ -1,0 +1,5 @@
+[NOMBRE]: Sagitario
+[RUT]: 99.999.999-9
+[FECHA DE NACIMIENTO]: [23/11/1998]
+[EDAD]: 23
+ 
